@@ -1,0 +1,128 @@
+.body{
+	font-family: 'Lateef', cursive;
+}
+/*Header top CSS*/
+.header_top{
+	background-color: #105997;
+	padding: 15px;
+    border-bottom: 1px solid #204E76;
+}
+.header_top img{
+	
+}
+.header_top h1{
+	color: #fff;
+}
+.header_top a:hover{
+	text-decoration: none;
+}
+/*Header top CSS end*/
+/*Menu CSS start*/
+.menu_section{
+	background-color: #105997;
+}
+.menu_section ul li a{
+ 	margin-right: 15px;
+ 	padding: 17px 30px;
+    color: #b1cbe2!important;
+    font-size: 20px;
+}
+.bg-light{
+	background-color: transparent!important;
+}
+.menu_section ul li a:hover{
+	color: #fff!important;
+}
+/*Menu CSS end*/
+/*Slider CSS Start*/
+
+/*Slider CSS End*/
+/*Content CSS Start*/
+.custom_con{
+	padding: 80px 0px;
+}
+.custom_con h2{
+	font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.custom_con p{
+	line-height: 30px;
+}
+.custom_con_event{
+	background: #105997;
+    padding: 20px;
+}
+.custom_con_event h2{
+	color: #fff;
+    padding: 6px;
+    border-bottom: 1px solid #2c6ba0;
+    margin-bottom: 25px;
+    text-transform: uppercase;
+}
+.btn_custom{
+	border-top: 1px solid #2c6ba0;
+    padding-top: 20px;
+}
+/*Content CSS End*/
+/*Footer CSS Start*/
+.footer_section{
+	background: #152736;
+    padding:50px;
+}
+.footer_one{
+	padding: 20px 20px 10px 0;
+    border-right: 1px solid #37434c;
+}
+.footer_one ul li{
+	list-style: none;
+	margin-bottom: 11px;
+	font-size: 18px;
+    color: #a4b4bb;
+}
+.custom_i{
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    color: #fff;
+    margin-left: 13px;
+    font-size: 16px;
+}
+.footer_two img{
+	padding: 35px 0px;
+}
+.footer_two ul{
+	padding:  0px;
+}
+.footer_two ul li {
+	list-style: none;
+    display: inline;
+    margin: 0 10px;
+    font-size: 18px;
+    
+}
+.footer_two ul li a{
+	color: #a4b4bb;
+}
+.footer_two ul li a:hover{
+	color: #fff;
+}
+.footer_three{
+	padding: 20px 0 10px 0px;
+    border-left: 1px solid #37434c;
+}
+.footer_three ul li{
+	list-style: none;
+	margin-bottom: 11px;
+	font-size: 18px;
+
+}
+.footer_three ul li a{
+	color: #a4b4bb;
+}
+.footer_three ul li a:hover{
+	text-decoration: none;
+	color: #fff;
+}
+/*Footer CSS End*/

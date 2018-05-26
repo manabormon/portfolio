@@ -1,0 +1,30 @@
+body{
+	background-color: #0D1B28;
+}
+.admin_section{
+	padding: 75px 0px;
+}
+.admin_section h1{
+	color: #fff;
+}
+.admin_section a{
+	text-decoration: none;
+}
+.custom_form{
+	padding: 75px 0px;
+}
+.custom_filed{
+	padding: 10px;
+    background: transparent;
+    border: 1px solid#424A52;
+}
+.btn_custom{
+	padding: 10px 160px;
+	font-weight: 600;
+}
+.btn_custom:hover{
+	background-color: #2191BF;
+	transition: 0.5s;
+	color: #fff;
+}
+/*Admin CSS End*/
